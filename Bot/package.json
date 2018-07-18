@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot for internet technologies course",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "form-data": "^2.2.0",
+    "twitter": "^1.7.1",
+    "watson-developer-cloud": "^2.37.0"
+  },
+  "devDependencies": {},
+  "author": "Matan Cohen , Daniel Menahem",
+  "license": "UNLICENSED"
+}

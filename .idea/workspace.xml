@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf222678-3edb-4f1f-b2eb-56668e2624df" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bot.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bot/bot.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loginLogic.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/loginLogic.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="loginHeader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/loginHeader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bot/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newUser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Todos" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Todos">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blum</find>
+      <find>getUse</find>
+      <find>see post</find>
+      <find>modalPic</find>
+      <find>hasPicPath</find>
+      <find>photoBtn</find>
+      <find>myin</find>
+      <find>myin111</find>
+      <find>post</find>
+      <find>readURL</find>
+      <find>files</find>
+      <find>photo</find>
+      <find>pos</find>
+      <find>photi</find>
+      <find>input</find>
+      <find>myIn</find>
+      <find>imgUpload</find>
+      <find>change</find>
+      <find>myInput</find>
+      <find>$query2</find>
+      <find>file</find>
+      <find>name</find>
+      <find>env</find>
+      <find>Afeka Book</find>
+      <find>Kick</find>
+      <find>we</find>
+      <find>afeka</find>
+      <find>We</find>
+      <find>kick</find>
+      <find>kickStart</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>AfekaBook</replace>
+      <replace>Afeka Book</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/classes/Post.php" />
+        <option value="$PROJECT_DIR$/classes/PostComment.php" />
+        <option value="$PROJECT_DIR$/classes/PostLike.php" />
+        <option value="$PROJECT_DIR$/classes/User.php" />
+        <option value="$PROJECT_DIR$/php/addFriends.php" />
+        <option value="$PROJECT_DIR$/php/deleteLike.php" />
+        <option value="$PROJECT_DIR$/php/deletePost.php" />
+        <option value="$PROJECT_DIR$/php/functions.php" />
+        <option value="$PROJECT_DIR$/Bot/config.js" />
+        <option value="$PROJECT_DIR$/Bot/node_modules/@types/node/package.json" />
+        <option value="$PROJECT_DIR$/Bot/node_modules/form-data/package.json" />
+        <option value="$PROJECT_DIR$/Bot/node_modules/twitter/package.json" />
+        <option value="$PROJECT_DIR$/Bot/node_modules/watson-developer-cloud/package.json" />
+        <option value="$PROJECT_DIR$/newUser.php" />
+        <option value="$PROJECT_DIR$/Todos" />
+        <option value="$PROJECT_DIR$/php/getPosts.php" />
+        <option value="$PROJECT_DIR$/php/header.php" />
+        <option value="$PROJECT_DIR$/css/app.css" />
+        <option value="$PROJECT_DIR$/php/connection.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/php/uploadPost.php" />
+        <option value="$PROJECT_DIR$/php/getUserName.php" />
+        <option value="$PROJECT_DIR$/php/getUsers.php" />
+        <option value="$PROJECT_DIR$/php/insertComment.php" />
+        <option value="$PROJECT_DIR$/php/loginLogic.php" />
+        <option value="$PROJECT_DIR$/php/logout.php" />
+        <option value="$PROJECT_DIR$/php/newUserLogic.php" />
+        <option value="$PROJECT_DIR$/php/updatePost.php" />
+        <option value="$PROJECT_DIR$/php/insertLike.php" />
+        <option value="$PROJECT_DIR$/php/uploadTweet.php" />
+        <option value="$PROJECT_DIR$/Bot/package.json" />
+        <option value="$PROJECT_DIR$/Bot/bot.js" />
+        <option value="$PROJECT_DIR$/php/loginHeader.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Login.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Bot/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Bot/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="02492881-a90f-4e1d-bfaf-4fc9da0c0510" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/index.php" remote-root="/Applications/MAMP/htdocs/AfekaBook/index.php" />
+          <mapping local-root="$PROJECT_DIR$/php" remote-root="/Applications/MAMP/htdocs/AfekaBook/php" />
+          <mapping local-root="$PROJECT_DIR$/php/getUsers.php" remote-root="/Applications/MAMP/htdocs/AfekaBook/php/getUsers.php" />
+          <mapping local-root="$PROJECT_DIR$/php/logout.php" remote-root="/Applications/MAMP/htdocs/AfekaBook/php/logout.php" />
+          <mapping local-root="$PROJECT_DIR$/php/uploadPost.php" remote-root="/Applications/MAMP/htdocs/AfekaBook/php/uploadTweet.php" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="2e768874-1550-4993-a231-012c36372ec7" name="localhost (1)" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="$PROJECT_DIR$" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:80/AfekaFace" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$USER_HOME$/Downloads/php-7.2.7-nts-Win32-VC15-x64" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="343" />
+    <option name="y" value="161" />
+    <option name="width" value="1280" />
+    <option name="height" value="633" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AfekaBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AfekaBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AfekaBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AfekaBook" type="462c0819:PsiDirectoryNode" />
+              <item name="Bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="afeka&#9;FILE&#9;file://C:/Users/nir.ostrovski/Desktop/AfekaBook&#10;AfekaBook&#9;RUN_CONFIGURATION&#9;AfekaBook (PHP Web Pa...)&#10;afekabook&#9;RUN_CONFIGURATION&#9;AfekaBook (PHP Web Pa...)&#10;Afeka Book&#9;null&#9;null&#10;conn&#9;FILE&#9;file://C:/Users/nir.ostrovski/Desktop/AfekaBook/php/connection.php" />
+    <property name="ToolWindowTerminal.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/php-7.2.7-nts-Win32-VC15-x64/php.exe" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.AfekaBook">
+    <configuration name="bot.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="Bot/bot.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="AfekaBook" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" />
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" path="" />
+    <list>
+      <item itemvalue="PHP Web Page.AfekaBook" />
+      <item itemvalue="Node.js.bot.js" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf222678-3edb-4f1f-b2eb-56668e2624df" name="Default" comment="" />
+      <created>1501446188603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501446188603</updated>
+      <workItem from="1501446191580" duration="1644000" />
+      <workItem from="1501513631005" duration="35291000" />
+      <workItem from="1501934480449" duration="14043000" />
+      <workItem from="1502185258002" duration="7498000" />
+      <workItem from="1507985610694" duration="9336000" />
+      <workItem from="1531906519049" duration="4451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72263000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="PHP-CGI Server" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5052083" side_tool="true" visible="true" weight="0.2691903" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.496875" weight="0.3228181" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" internal_type="SLIDING" order="10" type="SLIDING" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13385417" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49479166" visible="true" weight="0.2691903" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.2620321" />
+      <window_info anchor="bottom" x="719" y="442" width="241" height="90" id="Command Line Tools Console" order="0" type="FLOATING" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/classes/User.php" />
+    <entry file="file://$PROJECT_DIR$/classes/Post.php" />
+    <entry file="file://$PROJECT_DIR$/php/deleteLike.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js" />
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/request/request.js" />
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/twitter/lib/twitter.js" />
+    <entry file="file://$PROJECT_DIR$/Bot/config.js" />
+    <entry file="file://$PROJECT_DIR$/js/jasny-bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap-multiselect.js" />
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/@types/node/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/form-data/package.json" />
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/twitter/package.json" />
+    <entry file="file://$PROJECT_DIR$/Bot/node_modules/watson-developer-cloud/package.json" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-editable.css" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-multiselect.css" />
+    <entry file="file://$PROJECT_DIR$/css/jasny-bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/select2.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrapmodal.css" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/js/select2.min.js" />
+    <entry file="file://$PROJECT_DIR$/users/21/2121/upload/i-m-here.jpg" />
+    <entry file="file://$PROJECT_DIR$/php/addFriends.php" />
+    <entry file="file://$PROJECT_DIR$/php/deletePost.php" />
+    <entry file="file://$PROJECT_DIR$/php/functions.php" />
+    <entry file="file://$PROJECT_DIR$/php/getPosts.php" />
+    <entry file="file://$PROJECT_DIR$/php/getUserName.php" />
+    <entry file="file://$PROJECT_DIR$/php/getUsers.php" />
+    <entry file="file://$PROJECT_DIR$/php/header.php" />
+    <entry file="file://$PROJECT_DIR$/php/insertComment.php" />
+    <entry file="file://$PROJECT_DIR$/php/logout.php" />
+    <entry file="file://$PROJECT_DIR$/php/newUserLogic.php" />
+    <entry file="file://$PROJECT_DIR$/php/updatePost.php" />
+    <entry file="file://$PROJECT_DIR$/css/app.css" />
+    <entry file="file://$PROJECT_DIR$/php/insertLike.php" />
+    <entry file="file://$PROJECT_DIR$/php/uploadTweet.php" />
+    <entry file="file://$PROJECT_DIR$/php/uploadPost.php" />
+    <entry file="file://$PROJECT_DIR$/lib/npm.js" />
+    <entry file="file://$PROJECT_DIR$/lib/jquery-1.12.4.min.js" />
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/Bot/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bot/bot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Todos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/loginLogic.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/loginHeader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
